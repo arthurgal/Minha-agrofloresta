@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Projeto Extrato</h1>
+    <h1>Projeto minha-agrofloresta</h1>
   </div>
 </template>
 
