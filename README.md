@@ -1,24 +1,4 @@
-# busca-extrato
+# Projeto Busca Extrato
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Descrição
+    Projeto desenvolvido em Vuejs 3 com TypeScript, Babel, Eslint. Tem como objetivo facilitar na busca de extrato e sucessão de cada planta para a organização de canteiros.
