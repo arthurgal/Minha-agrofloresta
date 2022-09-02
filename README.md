@@ -20,6 +20,7 @@ Basta rodar o comando na raiz do projeto
 
 ### Criação do projeto
 A título de informação, o projeto foi criado com o seguinte comando:
+
     npm vue create minha-agrofloresta
 
 Esse comando já cria o projeto com as configurações, como TypeScript, Babel, Eslint e o próprio Vue
