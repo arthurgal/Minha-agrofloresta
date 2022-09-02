@@ -13,9 +13,19 @@ Para esse projeto é preciso ter instalado o node.js e o vuejs
 ### Instalando o Vuejs
     npm install vue
 
+### Instalando os pacotes de dependência do projeto
+    npm install
+
+Basta rodar o comando na raiz do projeto
+
+### Criação do projeto
+A título de informação, o projeto foi criado com o seguinte comando:
+    npm vue create minha-agrofloresta
+
+Esse comando já cria o projeto com as configurações, como TypeScript, Babel, Eslint e o próprio Vue
 
 ### Clonando o repositorio
-    git clone https://github.com/arthurgal/Proj-Busca-Extrato.git
+    git clone https://github.com/arthurgal/Minha-agrofloresta.git
 
 ### Rodando o Projeto
 Entre na pasta do projeto e rode o seguinte comando no terminal
