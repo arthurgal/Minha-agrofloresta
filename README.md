@@ -32,3 +32,10 @@ Esse comando já cria o projeto com as configurações, como TypeScript, Babel, 
 Entre na pasta do projeto e rode o seguinte comando no terminal
     
     npm run serve
+
+### Tecnologias base
+
+Vue 3: https://vuejs.org/
+Axios: https://axios-http.com/docs/intro
+Tailwindcss: https://tailwindcss.com/
+    Usado com postcss e autoprefixer (https://github.com/postcss/autoprefixer)
