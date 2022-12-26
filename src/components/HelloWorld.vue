@@ -1,6 +1,8 @@
 <template>
   <div>
-    <h1>Projeto minha-agrofloresta</h1>
+    <h1 class="text-3xl font-bold text-green-500">
+      Hello world!
+    </h1>
   </div>
 </template>
 
